@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Majd0711)
 
-#### 📧 contact.majde@gmail.com 📞 +212 7 73 79 60 45 📍 Agadir, Morocco 🔗 [LinkedIn](https://www.linkedin.com/in/majd-eddine-benzabir/)
+#### 📧 contact.majde@gmail.com 📍 Morocco 🔗 [LinkedIn](https://www.linkedin.com/in/majd-eddine-benzabir/)
 
 ### Full-Stack Developer
 
