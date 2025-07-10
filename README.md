@@ -182,14 +182,10 @@ I began my transition from international project management to software developm
 
 <!-- Snake Animation -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Majd0711/Majd0711/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Majd0711/Majd0711/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Majd0711/Majd0711/raw/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majd0711/Majd0711/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 </p>
