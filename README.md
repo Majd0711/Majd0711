@@ -16,14 +16,14 @@
 const majd = {
   location: "Agadir, Morocco",
   role: "Full-Stack Developer",
-  background: "Former Project Delivery Manager",
+  background: "Ex-Former international Project Delivery Manager",
   education: "Digital Morocco School - Full-Stack Web Development Program",
-  interests: ["Web Development", "UI/UX Design", "Problem Solving"],
+  interests: ["Web Development", "Problem Solving"],
   currentFocus: "Seeking development internship opportunities"
 };
 ```
 
-I'm a Full-Stack Developer with a background in project management. Recently completed an intensive 6-month Full-Stack Development program, gaining hands-on experience with modern web technologies. I combine strong project management skills with technical knowledge to build efficient and user-friendly web applications.
+I'm a Full-Stack Developer with a background as an Ex-Former International Project Delivery Manager. Recently completed an intensive 6-month Full-Stack Development program, gaining hands-on experience with modern web technologies. I combine strong international project management skills with technical knowledge to build efficient and user-friendly web applications.
 
 <!-- Tech Stack section -->
 ## 🛠️ Tech Stack
@@ -120,12 +120,12 @@ I'm a Full-Stack Developer with a background in project management. Recently com
 <!-- Professional Experience section -->
 ## 💼 Professional Experience
 
-**Project Delivery Manager** | Abderrazak Morokkoha Transport  
+**Ex-Former International Project Delivery Manager** | Abderrazak Morokko Transport  
 *Jul 2020 – Oct 2024 | Agadir, Morocco (Hybrid)*
 
 - Led cross-functional teams in delivering complex logistics solutions
 - Managed project timelines and resources, ensuring on-time and on-budget delivery
-- Developed and optimized operational processes, improving efficiency by 30%
+- Developed and optimized international operational processes, improving global efficiency.
 - Created detailed project documentation and reports, enhancing communication with stakeholders
 
 <!-- Education section -->
@@ -142,7 +142,7 @@ I'm a Full-Stack Developer with a background in project management. Recently com
 
 ## 🚀 My Coding Journey
 
-I began my transition from project management to software development in early 2024, driven by a passion for creating impactful digital solutions. My background in managing complex projects has provided me with valuable skills in problem-solving, time management, and understanding client needs—all of which enhance my approach to software development.
+I began my transition from international project management to software development in early 2025, driven by a passion for creating impactful digital solutions. My background in managing complex international projects has provided me with valuable skills in problem-solving, time management, and understanding global client needs—all of which enhance my approach to software development.
 
 ### 🎯 Goals
 
@@ -175,7 +175,11 @@ I began my transition from project management to software development in early 2
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://github.com/Majd0711/Majd0711/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Majd0711/Majd0711/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Majd0711/Majd0711/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Majd0711/Majd0711/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <!-- Footer -->
