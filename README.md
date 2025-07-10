@@ -1,7 +1,14 @@
-<!-- Header with animated greeting -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Majd+Eddine+Benzabir;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=3498db">
-</h1>
+<!-- Header with animated wave and name -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Majd%20Eddine%20Benzabir&fontSize=42&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
+</div>
+
+<!-- Animated welcome message -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+web+development;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
+</div>
 
 <!-- Profile banner -->
 <p align="center">
