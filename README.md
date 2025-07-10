@@ -1,6 +1,6 @@
 <!-- Header with animated wave and name -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Majd%20Eddine%20Benzabir&fontSize=42&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Majd%20Eddine%20Benzbair&fontSize=42&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Animated welcome message -->
